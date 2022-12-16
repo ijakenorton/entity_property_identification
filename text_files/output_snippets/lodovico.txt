@@ -1,0 +1,14 @@
+Subject ->>   for the Duke Lodovico    to raise insurrections on the borders
+{'V': ' was', 'ARG2': ' enough', 'ARG1': ' for the Duke Lodovico    to raise insurrections on the borders'}
+
+Subject ->>   the Duke Lodovico   
+{'ARG0': ' the Duke Lodovico   ', 'V': ' raise', 'ARG1': ' insurrections', 'ARGM-LOC': ' on the borders'}
+{'ARG1': ' the Duke Lodovico   ', 'V': ' died', 'ARGM-TMP': ' in 1510'}
+
+Subject ->>   the Duke Lodovico    to lose it a second time
+{'V': ' cause', 'ARG1': ' the Duke Lodovico    to lose it a second time'}
+
+Subject ->>   the Duke Lodovico 
+{'ARG0': ' the Duke Lodovico ', 'V': ' lose', 'ARG1': ' it', 'ARGM-TMP': ' a second time'}
+{'ARG0': ' the Duke Lodovico ', 'V': ' ruled', 'ARG1': ' over Milanfrom', 'ARGM-TMP': ' 1494 to 1500'}
+{'ARG1': ' what resources', 'ARG0': ' the Duke Lodovico ', 'V': ' had'}

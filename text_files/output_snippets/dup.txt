@@ -1,0 +1,121 @@
+['Chapter', 'I', 'is', 'taken', 'from', 'the', 'May', '3rd', 'and', 'May', '4th', 'entries', 'in', 'Jonathan', 'Harker', "'s", 'journal', '.']
+
+{'V': ' is'}
+['Jonathan', 'Harker', "'s", 'is', 'on', 'a', 'business', 'trip', 'in', 'Eastern', 'Europe', ',', 'making', 'Jonathan', 'Harker', "'s", 'way', 'across', 'one', 'of', 'the', 'most', 'isolated', 'regions', 'of', 'Europe', '.']
+
+
+{'ARG1': " Jonathan Harker 's", 'V': ' is', 'ARG2': ' on a business trip in Eastern Europe', 'ARGM-ADV': " making Jonathan Harker 's way across one of the most isolated regions of Europe"}
+{'ARG0': " Jonathan Harker 's", 'V': ' making', 'ARG1': " Jonathan Harker 's way across one of the most isolated regions of Europe"}
+
+
+
+['Jonathan', 'Harker', "'s", 'is', 'going', 'to', 'meet', 'with', 'a', 'noble', 'of', 'Transylvania', ',', 'Count', 'Dracula', '.']
+
+
+{'V': ' is'}
+{'ARG0': " Jonathan Harker 's", 'V': ' meet', 'ARG1': ' with a noble of Transylvania , Count Dracula'}
+['The', 'heading', 'to', 'Jonathan', 'Harker', "'s", 'journal', 'entry', 'tells', 'us', 'that', 'Jonathan', 'is', 'writing', 'in', 'Bistritz', ',', 'in', 'what', 'is', 'now', 'Romania', '.']
+
+
+{'ARG0': " The heading to Jonathan Harker 's journal entry", 'V': ' tells', 'ARG2': ' us', 'ARG1': ' that Jonathan is writing in Bistritz , in what is now Romania'}
+{'V': ' is'}
+{'ARG1': ' what', 'V': ' is', 'ARGM-TMP': ' now', 'ARG2': ' Romania'}
+['Two', 'days', 'ago', ',', 'Jonathan', 'Harker', "'s", 'was', 'in', 'Munich', '.']
+
+
+
+{'ARGM-TMP': ' Two days ago', 'ARG1': " Jonathan Harker 's", 'V': ' was', 'ARG2': ' in Munich'}
+['One', 'day', 'ago', ',', 'Jonathan', 'Harker', "'s", 'was', 'in', 'Vienna', '.']
+{'ARGM-TMP': ' One day ago', 'ARG1': " Jonathan Harker 's", 'V': ' was', 'ARG2': ' in Vienna'}
+['As', 'Jonathan', 'Harker', "'s", 'has', 'moved', 'farther', 'east', ',', 'the', 'country', 'has', 'become', 'wilder', 'and', 'less', 'modern', '.']
+{'V': ' has'}
+{'V': ' has'}
+['Jonathan', 'Harker', "'s", 'records', 'Jonathan', 'Harker', "'s", 'observations', 'of', 'the', 'people', 'and', 'the', 'countryside', ',', 'their', 'costume', 'and', 'customs', '.']
+['Jonathan', 'Harker', "'s", 'has', 'been', 'instructed', 'to', 'stay', 'at', 'an', 'old', 'fashioned', 'hotel', 'in', 'Bistritz', 'before', 'setting', 'out', 'for', 'the', 'final', 'leg', 'of', 'the', 'journey', 'to', 'Dracula', "'s", 'castle', '.']
+{'V': ' has'}
+{'ARG1': " Jonathan Harker 's", 'V': ' instructed', 'ARG2': " to stay at an old fashioned hotel in Bistritz before setting out for the final leg of the journey to Dracula 's castle"}
+{'ARG1': " Jonathan Harker 's", 'V': ' stay', 'ARG3': ' at an old fashioned hotel in Bistritz', 'ARGM-TMP': " before setting out for the final leg of the journey to Dracula 's castle"}
+{'ARG0': " Jonathan Harker 's", 'V': ' setting', 'ARG1': " for the final leg of the journey to Dracula 's castle"}
+['At', 'Bistritz', ',', 'a', 'letter', 'from', 'Dracula', 'is', 'waiting', 'for', 'Jonathan', 'Harker', "'s", '.']
+{'V': ' is'}
+['Jonathan', 'is', 'to', 'rest', 'before', 'setting', 'out', 'the', 'next', 'day', 'for', 'the', 'Borgo', 'Pass', ',', 'where', 'the', 'Count', "'s", 'coach', 'will', 'be', 'waiting', 'for', 'Jonathan', '.']
+{'ARG1': ' Jonathan', 'V': ' is', 'ARG2': ' to rest', 'ARGM-TMP': " before setting out the next day for the Borgo Pass , where the Count 's coach will be waiting for Jonathan"}
+{'ARG1': ' Jonathan', 'V': ' rest', 'ARGM-TMP': " before setting out the next day for the Borgo Pass , where the Count 's coach will be waiting for Jonathan"}
+{'ARG0': ' Jonathan', 'V': ' setting', 'ARG1': ' the next day', 'ARG2': " for the Borgo Pass , where the Count 's coach will be waiting for Jonathan"}
+{'V': ' will'}
+{'ARGM-LOC': ' the Borgo Pass', 'R-ARGM-LOC': ' where', 'ARG1': " the Count 's coach", 'ARGM-MOD': ' be will', 'V': ' waiting', 'ARG2': ' for Jonathan'}
+['The', 'landlord', 'and', 'Jonathan', 'wife', 'are', 'visibly', 'distressed', 'by', 'Jonathan', "'s", 'intentions', 'to', 'go', 'to', 'Dracula', "'s", 'castle', '.']
+{'ARG1': ' The landlord and Jonathan wife', 'V': ' are', 'ARG2': " visibly distressed by Jonathan 's intentions to go to Dracula 's castle"}
+{'ARG0': " Jonathan 's", 'V': ' go', 'ARG4': " to Dracula 's castle"}
+['Although', 'The', 'landlord', 'and', 'his', 'wife', 'can', 'not', 'understand', 'each', 'other', "'s", 'languages', 'and', 'must', 'communicate', 'in', 'German', ',', 'the', 'innkeeper', 'passively', 'tries', 'to', 'stop', 'Jonathan', 'by', 'pretending', 'not', 'to', 'understand', 'Jonathan', 'requests', 'for', 'a', 'carriage', 'to', 'the', 'Borgo', 'Pass', '.']
+{'V': ' can'}
+{'V': ' must'}
+{'ARGM-ADV': " Although The landlord and his wife can not understand each other 's languages and must communicate in German", 'ARG0': ' the innkeeper', 'ARGM-MNR': ' passively', 'V': ' tries', 'ARG1': ' to stop Jonathan by pretending not to understand Jonathan requests for a carriage to the Borgo Pass'}
+{'ARG0': ' the innkeeper', 'V': ' stop', 'ARG1': ' Jonathan', 'ARGM-MNR': ' by pretending not to understand Jonathan requests for a carriage to the Borgo Pass'}
+{'ARG0': ' the innkeeper', 'V': ' pretending', 'ARG1': ' not to understand Jonathan requests for a carriage to the Borgo Pass'}
+{'ARG0': ' the innkeeper', 'ARGM-NEG': ' not', 'V': ' understand', 'ARG1': ' Jonathan requests for a carriage to the Borgo Pass'}
+['his', 'wife', 'more', 'aggressively', 'tries', 'to', 'dissuade', 'Jonathan', ',', 'warning', 'Jonathan', 'that', 'tomorrow', 'is', 'St.', 'George', "'s", 'Day', ',', 'and', 'at', 'midnight', 'on', 'St.', 'George', "'s", 'Eve', 'evil', 'is', 'at', 'its', 'strongest', '.']
+{'ARG0': ' his wife', 'ARGM-MNR': ' more aggressively', 'V': ' tries', 'ARG1': ' to dissuade Jonathan', 'ARGM-ADV': " warning Jonathan that tomorrow is St. George 's Day , and at midnight on St. George 's Eve evil is at its strongest"}
+{'ARG0': ' his wife', 'V': ' dissuade', 'ARG1': ' Jonathan'}
+{'ARG0': ' his wife', 'V': ' warning', 'ARG2': ' Jonathan', 'ARG1': " that tomorrow is St. George 's Day , and at midnight on St. George 's Eve evil is at its strongest"}
+{'ARG1': ' tomorrow', 'V': ' is', 'ARG2': " St. George 's Day"}
+{'ARGM-TMP': " at midnight on St. George 's Eve", 'ARG1': ' evil', 'V': ' is', 'ARG2': ' at its strongest'}
+['When', 'Jonathan', 'insists', 'that', 'Jonathan', 'must', 'go', ',', 'his', 'wife', 'gives', 'Jonathan', 'a', 'crucifix', ',', 'Jonathan', 'accepts', 'the', 'gift', ',', 'even', 'though', ',', 'as', 'an', 'English', 'Protestant', ',', 'Jonathan', 'considers', 'crucifixes', 'idolatrous', '.']
+{'ARGM-TMP': ' When', 'ARG0': ' Jonathan', 'V': ' insists', 'ARG1': ' that Jonathan must go'}
+{'V': ' must'}
+{'ARG0': ' his wife', 'V': ' gives', 'ARG2': ' Jonathan', 'ARG1': ' a crucifix'}
+{'ARG0': ' Jonathan', 'V': ' accepts', 'ARG1': ' the gift', 'ARGM-ADV': ' even though , as an English Protestant , Jonathan considers crucifixes idolatrous'}
+{'ARGM-PRD': ' as an English Protestant', 'ARG0': ' Jonathan', 'V': ' considers', 'ARG1': ' crucifixes idolatrous'}
+['Before', 'Jonathan', 'leaves', ',', 'Jonathan', 'notices', 'that', 'a', 'number', 'of', 'the', 'peasants', 'are', 'watching', 'Jonathan', 'with', 'apprehension', '.']
+{'ARG0': ' Jonathan', 'V': ' leaves'}
+{'ARGM-TMP': ' Before Jonathan leaves', 'ARG0': ' Jonathan', 'V': ' notices', 'ARG1': ' that a number of the peasants are watching Jonathan with apprehension'}
+{'V': ' are'}
+['Although', 'Jonathan', 'can', 'not', 'understand', 'much', 'of', 'the', 'peasants', 'language', ',', 'Jonathan', 'can', 'make', 'out', 'the', 'words', 'for', 'devil', ',', 'Satan', ',', 'werewolf', ',', 'and', 'vampire', '.']
+{'V': ' can'}
+{'V': ' can'}
+['the', 'peasants', 'make', 'motions', 'at', 'Jonathan', 'to', 'protect', 'Jonathan', 'from', 'the', 'evil', 'eye', '.']
+{'ARG0': ' the peasants', 'V': ' make', 'ARG1': ' motions', 'ARG2': ' at Jonathan', 'ARGM-PRP': ' to protect Jonathan from the evil eye'}
+{'ARG0': ' the peasants', 'V': ' protect', 'ARG1': ' Jonathan', 'ARG2': ' from the evil eye'}
+['On', 'the', 'carriage', 'ride', ',', 'Jonathan', 'fellow', 'passengers', ',', 'on', 'learning', 'where', 'Jonathan', 'is', 'going', ',', 'treat', 'Jonathan', 'with', 'the', 'same', 'kind', 'of', 'concerned', 'sympathy', ',', 'giving', 'Jonathan', 'gifts', 'and', 'protecting', 'Jonathan', 'with', 'charms', '.']
+{'ARG0': ' Jonathan fellow passengers', 'V': ' learning', 'ARG1': ' where Jonathan is going'}
+{'V': ' is'}
+{'ARGM-LOC': ' On the carriage ride', 'ARG0': ' Jonathan fellow passengers', 'ARGM-ADV': ' giving Jonathan gifts and protecting Jonathan with charms', 'V': ' treat', 'ARG1': ' Jonathan', 'ARGM-MNR': ' with the same kind of concerned sympathy'}
+{'ARG0': ' Jonathan fellow passengers', 'V': ' giving', 'ARG2': ' Jonathan', 'ARG1': ' gifts'}
+{'ARG0': ' Jonathan fellow passengers', 'V': ' protecting', 'ARG1': ' Jonathan', 'ARG3': ' with charms'}
+['the', 'carriage', 'ride', 'is', 'in', 'wild', 'and', 'beautiful', 'country', '.']
+{'ARG1': ' the carriage ride', 'V': ' is', 'ARG2': ' in wild and beautiful country'}
+['The', 'carriage', 'driver', 'arrives', 'at', 'the', 'Borgo', 'Pass', 'an', 'hour', 'early', ',', 'and', 'in', 'bad', 'German', 'Jonathan', 'then', 'tries', 'to', 'convince', 'Jonathan', 'that', 'Dracula', "'s", 'coachman', 'might', 'not', 'come', 'tonight', ',', 'and', 'Jonathan', 'should', 'come', 'with', 'the', 'rest', 'of', 'Dracula', "'s", 'coachman', 'might', 'not', 'come', 'tonight', 'to', 'Bukovina', '.']
+{'ARG1': ' The carriage driver', 'V': ' arrives', 'ARG4': ' at the Borgo Pass', 'ARGM-TMP': ' an hour early'}
+{'ARGM-MNR': ' in bad German', 'ARG0': ' Jonathan', 'ARGM-TMP': ' then', 'V': ' tries', 'ARG1': " to convince Jonathan that Dracula 's coachman might not come tonight"}
+{'ARG0': ' Jonathan', 'V': ' convince', 'ARG1': ' Jonathan', 'ARG2': " that Dracula 's coachman might not come tonight"}
+{'V': ' might'}
+{'V': ' should'}
+{'V': ' might'}
+['At', 'that', 'moment', ',', 'a', 'fearsome', '-', 'looking', 'coachman', 'arrives', 'on', 'a', 'vehicle', 'pulled', 'by', 'coal', '-', 'black', 'horses', '.']
+{'ARGM-TMP': ' At that moment', 'ARG1': ' a fearsome - looking coachman', 'V': ' arrives', 'ARG4': ' on a vehicle pulled by coal - black horses'}
+{'ARG1': ' a vehicle', 'V': ' pulled', 'ARG0': ' by coal - black horses'}
+['One', 'of', 'the', 'passengers', 'whispers', ',', '"', 'for', 'a', 'fearsome', '-', 'looking', 'coachman', 'rebukes', 'The', 'carriage', 'driver', ',', 'and', 'brings', 'Jonathan', 'onto', 'the', 'coach', '.']
+{'ARG0': ' One of the passengers', 'V': ' whispers', 'ARG1': ' for a fearsome - looking coachman rebukes The carriage driver , and brings Jonathan onto the coach'}
+{'ARGM-ADV': ' for', 'ARG0': ' a fearsome - looking coachman', 'V': ' rebukes', 'ARG1': ' The carriage driver'}
+{'ARG0': ' a fearsome - looking coachman', 'V': ' brings', 'ARG1': ' Jonathan', 'ARG2': ' onto the coach'}
+['The', 'final', 'part', 'of', 'the', 'trip', 'is', 'terrifying', '.']
+{'ARG1': ' The final part of the trip', 'V': ' is', 'ARG2': ' terrifying'}
+{'ARG0': ' The final part of the trip', 'V': ' terrifying'}
+['The', 'moon', 'is', 'bright', 'but', 'is', 'occasionally', 'obscured', 'by', 'clouds', ',', 'and', 'strange', 'blue', 'fires', 'and', 'wolves', 'appear', 'along', 'the', 'way', '.']
+{'ARG1': ' The moon', 'V': ' is', 'ARG2': ' bright'}
+{'V': ' is'}
+{'ARG1': ' strange blue fires and wolves', 'V': ' appear', 'ARGM-LOC': ' along the way'}
+['On', 'several', 'occasions', ',', 'The', 'carriage', 'driver', 'leaves', 'the', 'coach', ',', 'at', 'which', 'point', 'wolves', 'come', 'closer', 'and', 'closer', 'to', 'a', 'vehicle', 'pulled', 'by', 'coal', '-', 'black', 'horses', '.']
+{'ARGM-TMP': ' at which point wolves come closer and closer to a vehicle pulled by coal - black horses', 'ARG0': ' The carriage driver', 'V': ' leaves', 'ARG1': ' the coach'}
+{'ARGM-TMP': ' at which point', 'ARG1': ' wolves', 'V': ' come', 'ARG4': ' closer and closer to a vehicle pulled by coal - black horses'}
+{'ARG1': ' a vehicle', 'V': ' pulled', 'ARG0': ' by coal - black horses'}
+['Whenever', 'The', 'carriage', 'driver', 'returns', ',', 'the', 'wolves', 'fleethe', 'final', 'time', 'this', 'phenomenon', 'occurs', ',', 'it', 'seems', 'that', 'wolves', 'flee', 'on', 'The', 'carriage', 'driver', "'s", 'command', '.']
+{'ARGM-TMP': ' Whenever The carriage driver returns', 'ARG0': ' the wolves', 'V': ' fleethe', 'ARG1': ' final time this phenomenon occurs'}
+{'ARGM-TMP': ' final time', 'ARG1': ' this phenomenon', 'V': ' occurs'}
+{'ARGM-TMP': ' final time this phenomenon occurs', 'V': ' seems', 'ARG1': " that wolves flee on The carriage driver 's command"}
+{'ARG0': ' wolves', 'V': ' flee', 'ARGM-CAU': " on The carriage driver 's command"}
+['The', 'chapter', 'ends', 'with', 'Dracula', "'s", 'castle', 'coming', 'into', 'view', ',', 'The', 'chapter', 'crumbling', 'battlements', 'cutting', 'a', 'jagged', 'line', 'against', 'the', 'night', 'sky', '.']
+{'ARG1': ' The chapter', 'V': ' ends', 'ARGM-MNR': " with Dracula 's castle coming into view", 'ARGM-ADV': ' The chapter crumbling battlements cutting a jagged line against the night sky'}
+{'ARG1': " Dracula 's castle", 'V': ' coming', 'ARG2': ' into view'}
+{'ARG1': ' battlements', 'V': ' crumbling'}
+{'V': ' cutting', 'ARG1': ' a jagged line', 'ARG2': ' against the night sky'}

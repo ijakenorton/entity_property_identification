@@ -1,0 +1,299 @@
+Subject:  Harker
+	 object >>   Dracula 's castle 's great round arches , the immense iron - studded stone doors , the rattling chains , and the clanking of massive bolts  >>> count: 1
+	 object >>   the details of the real estate transfer  >>> count: 2
+	 object >>   Dracula  >>> count: 2
+	 object >>   a cigar  >>> count: 2
+	 object >>   the Count 's castle  >>> count: 2
+	 object >>   in the midst of perusing one of the volumes when the Count appears  >>> count: 2
+	 object >>   to do so  >>> count: 2
+	 object >>   nothing tangibly amiss  >>> count: 2
+	 object >>   that , first , there is no reflection of Count Dracula in the shaving mirror ; and second , when the Count sees Harker 's fresh blood trickling from Harker chin , Harker eyes blaze up " with a sudden demoniac fury , " and Harker lunges for Harker 's throat  >>> count: 2
+	 object >>   Harker crucifix  >>> count: 2
+	 object >>   Harker  >>> count: 8
+	 object >>   to take care how Harker cuts Harker in this country  >>> count: 2
+	 object >>   about the fact that Harker has never seen the Count eat or drink  >>> count: 2
+	 object >>   the Count eat or drink  >>> count: 2
+	 object >>   the castle  >>> count: 3
+	 object >>   able to see from the battlements  >>> count: 2
+	 object >>   that Harker is indeed a prisoner in Dracula 's castle  >>> count: 2
+	 object >>   to panic and feelings of helplessness  >>> count: 2
+	 object >>   to rationally analyze what Harker must do to escape and survive  >>> count: 2
+	 object >>   that Harker will " need all Brams to get through  >>> count: 2
+	 object >>   all Brams to get through  >>> count: 2
+	 object >>   a religious man  >>> count: 2
+	 object >>   the crucifix  >>> count: 2
+	 object >>   over the head of the bed  >>> count: 2
+	 object >>   that Harker does not go mad  >>> count: 1
+	 object >>   mad  >>> count: 1
+	 object >>   that in this room " ladies sat and sung and lived sweet lives whilst ladies gentle breasts were sad for ladies menfolk away in the midst of remorseless wars  >>> count: 2
+	 object >>   Harker allowing the other woman to bend over Harker until Harker can feel the other woman hot breath on Harker neck  >>> count: 2
+	 object >>   hot breath  >>> count: 2
+	 object >>   on Harker neck  >>> count: 2
+	 object >>   sure that Harker hears a low wail , like that " of a half - smothered child  >>> count: 2
+	 object >>   into unconsciousness  >>> count: 2
+	 object >>   for others " who are -- waiting to suck blood  >>> count: 2
+	 object >>   gypsies who are driving wagons filled with large , square , empty boxes  >>> count: 2
+	 object >>   the muffled sounds of digging  >>> count: 2
+	 object >>   the Count slither down the side of the castle , lizard - fashion , wearing Harker 's clothes and carrying " the terrible bag  >>> count: 2
+	 object >>   no choice  >>> count: 2
+	 object >>   to encounter Dracula during daylight  >>> count: 2
+	 object >>   out Harker window  >>> count: 2
+	 object >>   an open door  >>> count: 3
+	 object >>   more aware of a " deathly , sickly odour , the odour of old earth newly turned  >>> count: 2
+	 object >>   fifty boxes  >>> count: 2
+	 object >>   what Harker must do  >>> count: 1
+	 object >>   what  >>> count: 1
+	 object >>   the full extent of Harker terror  >>> count: 1
+	 object >>   terribly afraid  >>> count: 1
+	 object >>   the Count  >>> count: 1
+	 object >>   that a carriage will take Harker to the Borgo Pass and from there , Harker will be able to return to England  >>> count: 1
+	 object >>   able to return to England  >>> count: 1
+	 object >>   on the floor  >>> count: 1
+	 object >>   the Count laid out in one of the large wooden boxes  >>> count: 1
+	 object >>   a shovel  >>> count: 1
+	 object >>   voices  >>> count: 1
+	 object >>   the Dracula 's castle is described , like almost everything else , in precise detail  >>> count: 1
+	 object >>   the Dracula 's castle 's great round arches , the immense iron - studded stone doors , the rattling chains , and the clanking of massive bolts  >>> count: 1
+	 object >>   for Harker sanity  >>> count: 1
+	 object >>   some of the gold  >>> count: 1
+	 object >>   sure that the castle is a nest for the " devil and Harker children  >>> count: 1
+Subject:  chains
+Subject:  Dracula
+	 object >>   as mysterious as Dracula 's castle is  >>> count: 1
+	 object >>   an old man  >>> count: 2
+	 object >>   in perfect English  >>> count: 2
+	 object >>   Harker  >>> count: 4
+	 object >>   that , at present , because of gout , Dracula will not be able to make the journey to England himself , but that one of Dracula trusted servants will accompany Harker back to London  >>> count: 2
+	 object >>   able to make the journey to England himself  >>> count: 2
+	 object >>   the first to speak  >>> count: 2
+	 object >>   The children of the night  >>> count: 2
+	 object >>   that Dracula may go anywhere Dracula wishes in the castle , except where the doors are locked  >>> count: 2
+	 object >>   anywhere Dracula wishes in the castle , except where the doors are locked  >>> count: 2
+	 object >>   anywhere  >>> count: 2
+	 object >>   the subject  >>> count: 2
+	 object >>   Dracula proposed journey to England  >>> count: 2
+	 object >>   that Dracula mastery of the English language is insufficient  >>> count: 2
+	 object >>   a master in Dracula own land  >>> count: 2
+	 object >>   to England  >>> count: 2
+	 object >>   a nobody  >>> count: 2
+	 object >>   Harker to remain in the castle as long as possible in order to perfect Dracula 's English pronunciation  >>> count: 2
+	 object >>   Dracula  >>> count: 2
+	 object >>   uneasy  >>> count: 2
+	 object >>   home  >>> count: 2
+	 object >>   to Transylvania  >>> count: 2
+	 object >>   from Harker room on the floor below  >>> count: 2
+	 object >>   as mysterious as the Dracula 's castle is  >>> count: 1
+Subject:  Dracula hand
+Subject:  to be filled with long passageways and heavy doors
+Subject:  Dracula house
+	 object >>   with long passageways and heavy doors  >>> count: 2
+Subject:  a table
+	 object >>   beside a roaring fire  >>> count: 2
+Subject:  The Count 's greeting
+	 object >>   so warm that Harker forgets Harker fears and gives Dracula the details of the real estate transfer  >>> count: 2
+Subject:  one of Dracula
+	 object >>   servants  >>> count: 2
+Subject:  one of Dracula trusted servants
+	 object >>   Harker  >>> count: 2
+	 object >>   back to London  >>> count: 2
+Subject:  Harker high , thin nose
+	 object >>   aquiline  >>> count: 2
+Subject:  Harker nostrils
+Subject:  Harker shaggy brows
+Subject:  Harker bushy hair
+Subject:  sharp white teeth which protrude over the lips
+	 object >>   Harker mouth , thick and white  >>> count: 2
+Subject:  Harker ears
+	 object >>   pale and pointed  >>> count: 2
+Subject:  Harker breath
+	 object >>   fetid and rank  >>> count: 2
+Subject:  The general effect
+	 object >>   one of extraordinary pallor  >>> count: 2
+Subject:  Both of the men
+	 object >>   wolves howling from far off  >>> count: 2
+Subject:  I
+	 object >>   strange things which I dare not confess to my own soul  >>> count: 2
+	 object >>   strange things  >>> count: 2
+	 object >>   to my own soul  >>> count: 2
+	 object >>   the shade and the shadow  >>> count: 2
+	 object >>   young  >>> count: 2
+Subject:  God
+	 object >>   me  >>> count: 2
+Subject:  A meal
+	 object >>   ready for Dracula  >>> count: 2
+Subject:  the Count
+	 object >>   concerned that the Count shall , for the most part , be alone in the Count new surroundings  >>> count: 2
+	 object >>   immensely pleased by the description of the Count new estate  >>> count: 2
+	 object >>   Harker 's fresh blood trickling from Harker chin  >>> count: 2
+	 object >>   the terrible bag  >>> count: 2
+	 object >>   supernatural  >>> count: 1
+Subject:  the doors
+Subject:  Dracula 's English pronunciation
+Subject:  they
+	 object >>   about inconsequential things  >>> count: 2
+Subject:  the evil spirits in Transylvania
+	 object >>   sway  >>> count: 2
+Subject:  " hardly a foot of soil "
+Subject:  by the blood of men , patriots , or invaders
+Subject:  their conversation
+Subject:  by high walls , made of heavy stone , is in need of repair , but contains massive , old iron gates
+	 object >>   the description of his new estate  >>> count: 2
+Subject:  the description of his new estate is surrounded by high walls
+	 object >>   in need of repair  >>> count: 2
+Subject:  the only building in the nearby vicinity
+	 object >>   a private lunatic asylum  >>> count: 2
+Subject:  my heart
+	 object >>   attuned to mirth  >>> count: 2
+Subject:  The two men
+Subject:  Harker host 's voice
+	 object >>   Harker  >>> count: 1
+Subject:  two unexplainable , horrible things
+Subject:  Harker eyes
+	 object >>   open and strong  >>> count: 1
+Subject:  the shaving glass
+Subject:  the castle
+	 object >>   a veritable prison  >>> count: 2
+Subject:  the crucifix which was given to him
+	 object >>   a comfort and a strength  >>> count: 2
+Subject:  A good night 's sleep
+	 object >>   virtually impossible  >>> count: 2
+Subject:  that Harker records in Harker diary that Harker fears for Harker sanity
+	 object >>   shortly afterward  >>> count: 1
+Subject:  his diary
+	 object >>   Harker only solace  >>> count: 2
+Subject:  One of Harker 's favorite rooms in the castle
+	 object >>   one that Harker feels was probably a woman 's room  >>> count: 2
+Subject:  that
+	 object >>   a woman 's room  >>> count: 2
+Subject:  ladies
+	 object >>   sweet  >>> count: 2
+Subject:  ladies gentle breasts
+	 object >>   sad for ladies menfolk  >>> count: 2
+Subject:  that three women appear before Harker
+	 object >>   during one moonlight night in this room  >>> count: 2
+Subject:  this
+	 object >>   a dream  >>> count: 2
+Subject:  we
+	 object >>   sure  >>> count: 2
+Subject:  Harker 's horror
+	 object >>   quite real  >>> count: 2
+	 object >>   Harker  >>> count: 2
+Subject:  Two of three women
+	 object >>   dark  >>> count: 2
+Subject:  red eyes
+Subject:  All
+	 object >>   brilliant white teeth  >>> count: 2
+Subject:  the other woman
+	 object >>   Harker  >>> count: 2
+Subject:  two sharp teeth
+	 object >>   his neck  >>> count: 2
+Subject:  Count Dracula
+	 object >>   in  >>> count: 2
+Subject:  the women
+	 object >>   a small bag with " some living thing within it "  >>> count: 2
+Subject:  the women and the gruesome bag
+	 object >>   only part of a bad dream  >>> count: 2
+Subject:  others
+	 object >>   to suck blood  >>> count: 2
+Subject:  gypsies
+	 object >>   wagons filled with large , square , empty boxes  >>> count: 2
+Subject:  dog
+Subject:  that Harker hears a woman below , crying out for a woman below child , tearing a woman below hair , beating a woman below breasts , and " beating a woman below naked hands against the door
+	 object >>   then  >>> count: 2
+Subject:  a woman below
+Subject:  a woman
+	 object >>   a woman  >>> count: 2
+Subject:  a pack of wolves
+	 object >>   into the courtyard  >>> count: 2
+Subject:  it
+	 object >>   empty  >>> count: 2
+Subject:  everything
+	 object >>   with dust , including a " great heap of gold in one corner  >>> count: 2
+Subject:  bullets
+	 object >>   no effect on Harker  >>> count: 1
+Subject:  a carriage
+	 object >>   Harker  >>> count: 1
+Subject:  the three terrible women
+	 object >>   their lips  >>> count: 1
+Subject:  day
+Subject:  the old man
+	 object >>   as if the old man youth been half renewed  >>> count: 1
+Subject:  the old man youth
+Subject:  The reason
+	 object >>   clear  >>> count: 1
+Subject:  by blood
+	 object >>   the old man  >>> count: 1
+Subject:  thick blotches of fresh blood which trickle from the corners of the old man mouth and run over the old man chin and neck
+	 object >>   On the old man lips  >>> count: 1
+Subject:  over the old man chin and neck
+	 object >>   thick blotches of fresh blood  >>> count: 1
+Subject:  Harker 's
+	 object >>   this monster  >>> count: 1
+	 object >>   to travel to England and satiate Harker lust on unsuspecting English men and women  >>> count: 1
+Subject:  this monster
+	 object >>   Harker lust on unsuspecting English men and women  >>> count: 1
+Subject:  the blow
+	 object >>   the Count 's forehead  >>> count: 1
+Subject:  the Dracula 's castle
+Subject:  his host 's voice
+	 object >>   Harker  >>> count: 1
+Subject:  that Harker records in his diary that Harker fears for Harker sanity
+	 object >>   shortly afterward  >>> count: 1
+Subject:  The precipice which Harker must confront
+	 object >>   steep and high  >>> count: 1
+Subject:  The last entry in Harker journal
+	 object >>   desperate  >>> count: 1
+Subject:  These three chapters
+	 object >>   the tone  >>> count: 1
+Subject:  many works
+	 object >>   on Count Dracula  >>> count: 1
+Subject:  many works based on Count Dracula
+	 object >>   the story  >>> count: 1
+Subject:  most of the subsequent treatments of the Dracula legend
+	 object >>   some of the incidents found in these chapters  >>> count: 1
+Subject:  an emissary who is in a foreign land to contact the mysterious Count Dracula , who has bought some property in England
+	 object >>   They  >>> count: 1
+Subject:  who
+	 object >>   the mysterious Count Dracula , who has bought some property in England  >>> count: 1
+Subject:  the mysterious Count Dracula
+	 object >>   some property in England  >>> count: 1
+Subject:  The young man
+	 object >>   the arrangements with Dracula  >>> count: 1
+Subject:  The setting
+	 object >>   someplace in Transylvania , a land sparsely populated and filled with howling wolves  >>> count: 1
+	 object >>   remote and strange and unfamiliar  >>> count: 1
+Subject:  wolves
+Subject:  by
+Subject:  Everything
+	 object >>   strange  >>> count: 1
+	 object >>   old and musty  >>> count: 1
+Subject:  the emissary
+	 object >>   with the natives  >>> count: 1
+	 object >>   Count Dracula eat anything  >>> count: 1
+Subject:  The representative
+Subject:  a carriage with an inscrutable driver
+	 object >>   an inscrutable driver  >>> count: 1
+Subject:  vampires
+	 object >>   various charms  >>> count: 1
+Subject:  the Borgo Pass
+	 object >>   well known for mysterious happenings  >>> count: 1
+Subject:  evil spirits
+	 object >>   free reign  >>> count: 1
+Subject:  someone
+	 object >>   for the Count  >>> count: 1
+Subject:  the Count 's castle
+	 object >>   a decaying edifice , located at the top of a tall mountain amid a desolate area , where one can gain access to the Count 's castle only by a steep , narrow road  >>> count: 1
+	 object >>   a landmark  >>> count: 1
+Subject:  a decaying edifice
+Subject:  one
+	 object >>   access to the Count 's castle  >>> count: 1
+Subject:  plenty of freshly prepared food
+Subject:  The narrator
+	 object >>   Count Dracula Count Dracula performing some act which would be considered supernatural , such as slithering down the sheer precipice of the Count 's castle in a " bat - like " manner  >>> count: 1
+Subject:  supernatural
+Subject:  the presence of a female vampire , who will attempt to seduce The narrator
+Subject:  a female vampire
+	 object >>   to seduce The narrator  >>> count: 1
+Subject:  Other factors of a lesser nature
+Subject:  the cries of young babies and the presence of blood at unexpected places
+Subject:  the emissary or she so

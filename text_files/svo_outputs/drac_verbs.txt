@@ -1,0 +1,80 @@
+{'ARG1': ' Chapter I', 'V': ' taken', 'ARG2': " from the May 3rd and May 4th entries in Jonathan Harker 's journal"}
+{'ARG1': ' Jonathan Harker s', 'V': ' is', 'ARG2': ' on a business trip in Eastern Europe', 'ARGM-ADV': " making Jonathan Harker 's way across one of the most isolated regions of Europe", 'index': 1}
+{'ARG0': ' Jonathan Harker s', 'V': ' making', 'ARG1': ' Jonathan Harker s way across one of the most isolated regions of Europe', 'index': 1}
+{'V': ' going'}
+{'ARG0': ' Jonathan Harker s', 'V': ' meet', 'ARG1': ' with a noble of Transylvania  Count Dracula', 'index': 2}
+{'ARG0': ' The heading to Jonathan Harker s journal entry', 'V': ' tells', 'ARG2': ' us', 'ARG1': ' that Jonathan is writing in Bistritz  in what is now Romania', 'index': 3}
+{'ARG0': ' Jonathan', 'V': ' writing', 'ARGM-MNR': ' in Bistritz', 'ARG1': ' in what is now Romania'}
+{'ARG1': ' what', 'V': ' is', 'ARGM-TMP': ' now', 'ARG2': ' Romania', 'index': 3}
+{'ARGM-TMP': ' Two days ago', 'ARG1': ' Jonathan Harker s', 'V': ' was', 'ARG2': ' in Munich', 'index': 4}
+{'ARGM-TMP': ' One day ago', 'ARG1': ' Jonathan Harker s', 'V': ' was', 'ARG2': ' in Vienna', 'index': 5}
+{'ARG1': " Jonathan Harker 's", 'V': ' moved', 'ARGM-DIR': ' farther east'}
+{'ARGM-ADV': " As Jonathan Harker 's has moved farther east", 'ARG1': ' the country', 'V': ' become', 'ARG2': ' wilder and less modern'}
+{'V': ' been'}
+{'ARG1': ' Jonathan Harker s', 'V': ' instructed', 'ARG2': " to stay at an old fashioned hotel in Bistritz before setting out for the final leg of the journey to Dracula 's castle", 'index': 8}
+{'ARG1': ' Jonathan Harker s', 'V': ' stay', 'ARG3': ' at an old fashioned hotel in Bistritz', 'ARGM-TMP': " before setting out for the final leg of the journey to Dracula 's castle", 'index': 8}
+{'ARG0': ' Jonathan Harker s', 'V': ' setting', 'ARG1': ' for the final leg of the journey to Dracula s castle', 'index': 8}
+{'ARGM-LOC': ' At Bistritz', 'ARG1': ' a letter from Dracula', 'V': ' waiting', 'ARG2': " for Jonathan Harker 's"}
+{'ARG1': ' Jonathan', 'V': ' is', 'ARG2': ' to rest', 'ARGM-TMP': " before setting out the next day for the Borgo Pass , where the Count 's coach will be waiting for Jonathan", 'index': 10}
+{'ARG1': ' Jonathan', 'V': ' rest', 'ARGM-TMP': " before setting out the next day for the Borgo Pass , where the Count 's coach will be waiting for Jonathan", 'index': 10}
+{'ARG0': ' Jonathan', 'V': ' setting', 'ARG1': ' the next day', 'ARG2': " for the Borgo Pass , where the Count 's coach will be waiting for Jonathan", 'index': 10}
+{'V': ' be'}
+{'ARGM-LOC': ' the Borgo Pass', 'R-ARGM-LOC': ' where', 'ARG1': ' the Count s coach', 'ARGM-MOD': ' be will', 'V': ' waiting', 'ARG2': ' for Jonathan', 'index': 10}
+{'ARG1': ' The landlord and Jonathan wife', 'V': ' are', 'ARG2': " visibly distressed by Jonathan 's intentions to go to Dracula 's castle", 'index': 11}
+{'ARG0': ' Jonathan s', 'V': ' go', 'ARG4': " to Dracula 's castle", 'index': 11}
+{'ARG0': ' The landlord and his wife', 'ARGM-MOD': ' can', 'ARGM-NEG': ' not', 'V': ' understand', 'ARG1': " each other 's languages"}
+{'ARG0': ' The landlord and his wife', 'ARGM-MOD': ' must', 'V': ' communicate', 'ARGM-MNR': ' in German'}
+{'ARGM-ADV': " Although The landlord and his wife can not understand each other 's languages and must communicate in German", 'ARG0': ' the innkeeper', 'ARGM-MNR': ' passively', 'V': ' tries', 'ARG1': ' to stop Jonathan by pretending not to understand Jonathan requests for a carriage to the Borgo Pass', 'index': 12}
+{'ARG0': ' the innkeeper', 'V': ' stop', 'ARG1': ' Jonathan', 'ARGM-MNR': ' by pretending not to understand Jonathan requests for a carriage to the Borgo Pass', 'index': 12}
+{'ARG0': ' the innkeeper', 'V': ' pretending', 'ARG1': ' not to understand Jonathan requests for a carriage to the Borgo Pass', 'index': 12}
+{'ARG0': ' the innkeeper', 'ARGM-NEG': ' not', 'V': ' understand', 'ARG1': ' Jonathan requests for a carriage to the Borgo Pass', 'index': 12}
+{'ARG0': ' his wife', 'ARGM-MNR': ' more aggressively', 'V': ' tries', 'ARG1': ' to dissuade Jonathan', 'ARGM-ADV': " warning Jonathan that tomorrow is St. George 's Day , and at midnight on St. George 's Eve evil is at its strongest", 'index': 13}
+{'ARG0': ' his wife', 'V': ' dissuade', 'ARG1': ' Jonathan', 'index': 13}
+{'ARG0': ' his wife', 'V': ' warning', 'ARG2': ' Jonathan', 'ARG1': ' that tomorrow is St George s Day  and at midnight on St George s Eve evil is at its strongest', 'index': 13}
+{'ARG1': ' tomorrow', 'V': ' is', 'ARG2': " St. George 's Day", 'index': 13}
+{'ARGM-TMP': " at midnight on St. George 's Eve", 'ARG1': ' evil', 'V': ' is', 'ARG2': ' at its strongest', 'index': 13}
+{'ARGM-TMP': ' When', 'ARG0': ' Jonathan', 'V': ' insists', 'ARG1': ' that Jonathan must go', 'index': 14}
+{'ARG0': ' Jonathan', 'ARGM-MOD': ' must', 'V': ' go'}
+{'ARG0': ' his wife', 'V': ' gives', 'ARG2': ' Jonathan', 'ARG1': ' a crucifix', 'index': 14}
+{'ARG0': ' Jonathan', 'V': ' accepts', 'ARG1': ' the gift', 'ARGM-ADV': ' even though , as an English Protestant , Jonathan considers crucifixes idolatrous', 'index': 14}
+{'ARGM-PRD': ' as an English Protestant', 'ARG0': ' Jonathan', 'V': ' considers', 'ARG1': ' crucifixes idolatrous', 'index': 14}
+{'ARG0': ' Jonathan', 'V': ' leaves', 'index': 15}
+{'ARGM-TMP': ' Before Jonathan leaves', 'ARG0': ' Jonathan', 'V': ' notices', 'ARG1': ' that a number of the peasants are watching Jonathan with apprehension', 'index': 15}
+{'ARG0': ' a number of the peasants', 'V': ' watching', 'ARG1': ' Jonathan', 'ARGM-MNR': ' with apprehension'}
+{'ARG0': ' Jonathan', 'ARGM-MOD': ' can', 'ARGM-NEG': ' not', 'V': ' understand', 'ARG1': ' much of the peasants language'}
+{'ARGM-ADV': ' Although Jonathan can not understand much of the peasants language', 'ARG0': ' Jonathan', 'ARGM-MOD': ' can', 'V': ' make', 'ARG1': ' the words for devil , Satan , werewolf , and vampire'}
+{'ARG0': ' the peasants', 'V': ' make', 'ARG1': ' motions', 'ARG2': ' at Jonathan', 'ARGM-PRP': ' to protect Jonathan from the evil eye', 'index': 17}
+{'ARG0': ' the peasants', 'V': ' protect', 'ARG1': ' Jonathan', 'ARG2': ' from the evil eye', 'index': 17}
+{'ARG0': ' Jonathan fellow passengers', 'V': ' learning', 'ARG1': ' where Jonathan is going', 'index': 18}
+{'ARG4': ' where', 'ARG0': ' Jonathan', 'V': ' going'}
+{'ARGM-LOC': ' On the carriage ride', 'ARG0': ' Jonathan fellow passengers', 'ARGM-ADV': ' giving Jonathan gifts and protecting Jonathan with charms', 'V': ' treat', 'ARG1': ' Jonathan', 'ARGM-MNR': ' with the same kind of concerned sympathy', 'index': 18}
+{'ARG0': ' Jonathan fellow passengers', 'V': ' giving', 'ARG2': ' Jonathan', 'ARG1': ' gifts', 'index': 18}
+{'ARG0': ' Jonathan fellow passengers', 'V': ' protecting', 'ARG1': ' Jonathan', 'ARG3': ' with charms', 'index': 18}
+{'ARG1': ' the carriage ride', 'V': ' is', 'ARG2': ' in wild and beautiful country', 'index': 19}
+{'ARG1': ' The carriage driver', 'V': ' arrives', 'ARG4': ' at the Borgo Pass', 'ARGM-TMP': ' an hour early', 'index': 20}
+{'ARGM-MNR': ' in bad German', 'ARG0': ' Jonathan', 'ARGM-TMP': ' then', 'V': ' tries', 'ARG1': ' to convince Jonathan that Dracula s coachman might not come tonight', 'index': 20}
+{'ARG0': ' Jonathan', 'V': ' convince', 'ARG1': ' Jonathan', 'ARG2': " that Dracula 's coachman might not come tonight", 'index': 20}
+{'ARG1': " Dracula 's coachman", 'ARGM-MOD': ' might', 'ARGM-NEG': ' not', 'V': ' come', 'ARGM-TMP': ' tonight'}
+{'ARG1': ' Jonathan', 'ARGM-MOD': ' should', 'V': ' come', 'ARGM-COM': " with the rest of Dracula 's coachman might not come tonight to Bukovina"}
+{'ARG1': " Dracula 's coachman", 'ARGM-MOD': ' might', 'ARGM-NEG': ' not', 'V': ' come', 'ARGM-TMP': ' tonight', 'ARG4': ' to Bukovina'}
+{'ARGM-TMP': ' At that moment', 'ARG1': ' a fearsome  looking coachman', 'V': ' arrives', 'ARG4': ' on a vehicle pulled by coal - black horses', 'index': 21}
+{'ARG1': ' a vehicle', 'V': ' pulled', 'ARG0': ' by coal  black horses', 'index': 21}
+{'ARG0': ' One of the passengers', 'V': ' whispers', 'ARG1': ' for a fearsome  looking coachman rebukes The carriage driver  and brings Jonathan onto the coach', 'index': 22}
+{'ARGM-ADV': ' for', 'ARG0': ' a fearsome  looking coachman', 'V': ' rebukes', 'ARG1': ' The carriage driver', 'index': 22}
+{'ARG0': ' a fearsome  looking coachman', 'V': ' brings', 'ARG1': ' Jonathan', 'ARG2': ' onto the coach', 'index': 22}
+{'ARG1': ' The final part of the trip', 'V': ' is', 'ARG2': ' terrifying', 'index': 23}
+{'ARG0': ' The final part of the trip', 'V': ' terrifying', 'index': 23}
+{'ARG1': ' The moon', 'V': ' is', 'ARG2': ' bright', 'index': 24}
+{'ARG1': ' The moon', 'ARGM-TMP': ' occasionally', 'V': ' obscured', 'ARG0': ' by clouds'}
+{'ARG1': ' strange blue fires and wolves', 'V': ' appear', 'ARGM-LOC': ' along the way', 'index': 24}
+{'ARGM-TMP': ' at which point wolves come closer and closer to a vehicle pulled by coal - black horses', 'ARG0': ' The carriage driver', 'V': ' leaves', 'ARG1': ' the coach', 'index': 25}
+{'ARGM-TMP': ' at which point', 'ARG1': ' wolves', 'V': ' come', 'ARG4': ' closer and closer to a vehicle pulled by coal - black horses', 'index': 25}
+{'ARG1': ' a vehicle', 'V': ' pulled', 'ARG0': ' by coal  black horses', 'index': 25}
+{'ARGM-TMP': ' Whenever The carriage driver returns', 'ARG0': ' the wolves', 'V': ' fleethe', 'ARG1': ' final time this phenomenon occurs', 'index': 26}
+{'ARGM-TMP': ' final time', 'ARG1': ' this phenomenon', 'V': ' occurs', 'index': 26}
+{'ARGM-TMP': ' final time this phenomenon occurs', 'V': ' seems', 'ARG1': ' that wolves flee on The carriage driver s command', 'index': 26}
+{'ARG0': ' wolves', 'V': ' flee', 'ARGM-CAU': " on The carriage driver 's command", 'index': 26}
+{'ARG1': ' The chapter', 'V': ' ends', 'ARGM-MNR': " with Dracula 's castle coming into view", 'ARGM-ADV': ' The chapter crumbling battlements cutting a jagged line against the night sky', 'index': 27}
+{'ARG1': ' Dracula s castle', 'V': ' coming', 'ARG2': ' into view', 'index': 27}
+{'ARG1': ' battlements', 'V': ' crumbling', 'index': 27}
+{'V': ' cutting', 'ARG1': ' a jagged line', 'ARG2': ' against the night sky', 'index': 27}

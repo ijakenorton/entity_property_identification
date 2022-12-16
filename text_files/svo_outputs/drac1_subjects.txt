@@ -1,0 +1,29 @@
+Subject ->>   four distinct nationalities  Saxons in the South  and mixed with them the Wallachs  who are the descendants of the Dacians  Magyars in the West  and Szekelys in the East and North
+{'ARGM-LOC': ' In the population of Transylvania', 'V': ' are', 'ARG1': ' four distinct nationalities  Saxons in the South  and mixed with them the Wallachs  who are the descendants of the Dacians  Magyars in the West  and Szekelys in the East and North'}
+
+Subject ->>   the Wallachs  who are the descendants of the Dacians  Magyars in the West  and Szekelys in the East and North
+{'V': ' mixed', 'ARG2': ' with them', 'ARG1': ' the Wallachs  who are the descendants of the Dacians  Magyars in the West  and Szekelys in the East and North'}
+
+Subject ->>   the Wallachs
+{'ARG1': ' the Wallachs', 'R-ARG1': ' who', 'V': ' are', 'ARG2': ' the descendants of the Dacians'}
+
+Subject ->>   the latter
+{'ARG0': ' the latter', 'R-ARG0': ' who', 'V': ' claim', 'ARG1': ' to be descended from Attila and the Huns'}
+
+Subject ->>   the Magyars
+{'ARGM-TMP': ' in the eleventh century', 'ARG0': ' the Magyars', 'V': ' conquered', 'ARG1': ' the country'}
+
+Subject ->>   they
+{'ARGM-TMP': ' when the Magyars conquered the country in the eleventh century', 'ARG0': ' they', 'V': ' found', 'ARG1': ' the Huns settled in it'}
+
+Subject ->>   the Huns
+{'ARG1': ' the Huns', 'V': ' settled', 'ARG4': ' in it'}
+
+Subject ->>   I
+{'ARG0': ' I', 'V': ' read', 'ARG1': ' if so my stay may be very interesting'}
+
+Subject ->>   superstition
+{'V': ' known', 'ARG1': ' superstition'}
+
+Subject ->>   it
+{'ARG1': ' it', 'V': ' were', 'ARG2': ' the centre of some sort of imaginative whirlpool'}

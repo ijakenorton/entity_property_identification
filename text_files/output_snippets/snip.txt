@@ -1,0 +1,13 @@
+sub_clause>> {'ARGM-MNR': ' in bad German', 'ARG0': ' Jonathan', 'ARGM-TMP': ' then', 'V': ' tries', 'ARG1': ' to convince Jonathan that Dracula s coachman might not come tonight', 'index': 20}
+
+
+
+object_clause>> {'ARG0': ' Jonathan', 'V': ' convince', 'ARG1': ' Jonathan', 'ARG2': " that Dracula 's coachman might not come tonight", 'index': 20}
+
+
+
+object key  Jonathan
+
+
+
+subject_relations[subject_key].keys()>>>> dict_keys([' the next day', ' that Jonathan must go', ' a crucifix', ' the gift', ' crucifixes idolatrous', ' that a number of the peasants are watching Jonathan with apprehension'])

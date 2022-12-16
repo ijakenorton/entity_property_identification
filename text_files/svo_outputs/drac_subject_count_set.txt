@@ -1,0 +1,86 @@
+subject key >>>  Jonathan Harker s
+ Jonathan Harker s way across one of the most isolated regions of Europe >>> 1
+ with a noble of Transylvania  Count Dracula >>> 1
+ for the final leg of the journey to Dracula s castle >>> 1
+---- New SUB ------
+subject key >>>  The heading to Jonathan Harker s journal entry
+ that Jonathan is writing in Bistritz  in what is now Romania >>> 1
+---- New SUB ------
+subject key >>>  what
+ that Jonathan is writing in Bistritz  in what is now Romania >>> 1
+---- New SUB ------
+subject key >>>  Jonathan
+ the next day >>> 1
+ that Jonathan must go >>> 1
+ that a number of the peasants are watching Jonathan with apprehension >>> 1
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  the Count s coach
+ the next day >>> 1
+---- New SUB ------
+subject key >>>  The landlord and Jonathan wife
+---- New SUB ------
+subject key >>>  Jonathan s
+---- New SUB ------
+subject key >>>  the innkeeper
+ to stop Jonathan by pretending not to understand Jonathan requests for a carriage to the Borgo Pass >>> 1
+---- New SUB ------
+subject key >>>  his wife
+ Jonathan >>> 1
+ that Jonathan must go >>> 1
+---- New SUB ------
+subject key >>>  tomorrow
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  evil
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  the peasants
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  Jonathan fellow passengers
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  the carriage ride
+---- New SUB ------
+subject key >>>  The carriage driver
+ Jonathan >>> 1
+ a vehicle >>> 1
+---- New SUB ------
+subject key >>>  a fearsome  looking coachman
+ a vehicle >>> 1
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  by coal  black horses
+ a vehicle >>> 2
+---- New SUB ------
+subject key >>>  One of the passengers
+ Jonathan >>> 1
+---- New SUB ------
+subject key >>>  The final part of the trip
+---- New SUB ------
+subject key >>>  The moon
+---- New SUB ------
+subject key >>>  strange blue fires and wolves
+---- New SUB ------
+subject key >>>  wolves
+ a vehicle >>> 1
+ final time this phenomenon occurs >>> 1
+---- New SUB ------
+subject key >>>  the wolves
+ final time this phenomenon occurs >>> 1
+---- New SUB ------
+subject key >>>  this phenomenon
+ final time this phenomenon occurs >>> 1
+---- New SUB ------
+subject key >>>  that wolves flee on The carriage driver s command
+ final time this phenomenon occurs >>> 1
+---- New SUB ------
+subject key >>>  The chapter
+---- New SUB ------
+subject key >>>  Dracula s castle
+---- New SUB ------
+subject key >>>  battlements
+---- New SUB ------
+subject key >>>  a jagged line
+---- New SUB ------

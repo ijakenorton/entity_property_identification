@@ -1,0 +1,205 @@
+2
+appending clause>> 
+ {'ARG0': ' this book by Charles Dickens', 'V': ' contains', 'ARG1': ' two of the most famous literary quotes of all time'}
+appending clauses>>>>> 
+ {'ARG0': ' this book by Charles Dickens', 'V': ' contains', 'ARG1': ' two of the most famous literary quotes of all time'}
+appending clause>> 
+ {'ARG1': ' One', 'V': ' appears', 'ARGM-TMP': ' at the start of the book'}
+appending clauses>>>>> 
+ {'ARG1': ' One', 'V': ' appears', 'ARGM-TMP': ' at the start of the book'}
+appending clause>> 
+ {'ARG1': ' Charles Dickens', 'V': ' begins', 'ARG2': " with the statement that ' It was the best of times , it was the worst of times"}
+appending clause>> 
+ {'ARG1': ' It', 'V': ' was', 'ARG2': ' the best of times'}
+appending clause>> 
+ {'ARG1': ' it', 'V': ' was', 'ARG2': ' the worst of times'}
+appending clauses>>>>> 
+ {'ARG1': ' it', 'V': ' was', 'ARG2': ' the worst of times'}
+appending clause>> 
+ {'ARG1': ' It', 'V': ' was', 'ARG2': ' the age of wisdom'}
+appending clause>> 
+ {'ARG1': ' it', 'V': ' was', 'ARG2': ' the age of foolishness'}
+appending clauses>>>>> 
+ {'ARG1': ' it', 'V': ' was', 'ARG2': ' the age of foolishness'}
+appending clause>> 
+ {'V': ' referred', 'ARG1': ' to'}
+appending clause>> 
+ {'ARG1': ' The cities referred to', 'V': ' are', 'ARG2': ' London , England and Paris , France'}
+appending clause>> 
+ {'V': ' is'}
+appending clause>> 
+ {'ARG1': ' the novel', 'V': ' set', 'ARG2': " in the 1770 's", 'ARGM-TMP': ' when the relationship between Britain and France was strained'}
+appending clause>> 
+ {'ARGM-TMP': ' when', 'ARG1': ' the relationship between Britain and France', 'V': ' was', 'ARG2': ' strained'}
+appending clause>> 
+ {'ARGM-TMP': " the 1770 's", 'R-ARGM-TMP': ' when', 'ARG1': ' the relationship between Britain and France', 'V': ' strained'}
+appending clauses>>>>> 
+ {'ARGM-TMP': " the 1770 's", 'R-ARGM-TMP': ' when', 'ARG1': ' the relationship between Britain and France', 'V': ' strained'}
+appending clause>> 
+ {'V': ' were'}
+appending clause>> 
+ {'ARG1': ' The rulers of both these countries', 'V': ' set', 'ARG2': ' apart from the common people'}
+appending clause>> 
+ {'ARG0': ' The rulers of both these countries', 'V': ' believed', 'ARG1': ' that The rulers of both these countries dynasties would last forever'}
+appending clause>> 
+ {'V': ' would'}
+appending clause>> 
+ {'ARG1': ' The rulers of both these countries dynasties', 'ARGM-MOD': ' would', 'V': ' last', 'ARG2': ' forever'}
+appending clauses>>>>> 
+ {'ARG1': ' The rulers of both these countries dynasties', 'ARGM-MOD': ' would', 'V': ' last', 'ARG2': ' forever'}
+appending clause>> 
+ {'ARGM-DIS': ' However', 'ARGM-TMP': ' at this time', 'ARG0': ' America', 'V': ' declared', 'ARG1': ' America independence', 'ARGM-ADV': ' which was a hint that there were winds of change in the world'}
+appending clause>> 
+ {'ARG1': ' which', 'V': ' was', 'ARG2': ' a hint that there were winds of change in the world'}
+appending clause>> 
+ {'V': ' were', 'ARG1': ' winds of change', 'ARGM-LOC': ' in the world'}
+appending clauses>>>>> 
+ {'V': ' were', 'ARG1': ' winds of change', 'ARGM-LOC': ' in the world'}
+appending clause>> 
+ {'ARGM-LOC': ' particularly in the cities where inflation was running out of control', 'V': ' was', 'ARG1': ' widespread hunger and poverty'}
+appending clause>> 
+ {'V': ' was'}
+appending clause>> 
+ {'ARGM-LOC': ' the cities', 'R-ARGM-LOC': ' where', 'ARG1': ' inflation', 'V': ' running', 'ARGM-MNR': ' out of control'}
+appending clauses>>>>> 
+ {'ARGM-LOC': ' the cities', 'R-ARGM-LOC': ' where', 'ARG1': ' inflation', 'V': ' running', 'ARGM-MNR': ' out of control'}
+appending clause>> 
+ {'ARG0': ' The authorities', 'V': ' inflicted', 'ARG1': ' heavy punishments', 'ARG2': ' on The authorities citizens who believed that The authorities were experiencing the very worst of life'}
+appending clause>> 
+ {'ARG0': ' The authorities citizens', 'R-ARG0': ' who', 'V': ' believed', 'ARG1': ' that The authorities were experiencing the very worst of life'}
+appending clause>> 
+ {'V': ' were'}
+appending clause>> 
+ {'ARG0': ' The authorities', 'V': ' experiencing', 'ARG1': ' the very worst of life'}
+appending clauses>>>>> 
+ {'ARG0': ' The authorities', 'V': ' experiencing', 'ARG1': ' the very worst of life'}
+appending clause>> 
+ {'ARG0': ' Dickens', 'V': ' comments', 'ARG1': ' that the people of Paris were near breaking point , and that the floodgates of revolution would be opened if the people of Paris were pushed too far'}
+appending clause>> 
+ {'ARG1': ' the people of Paris', 'V': ' were', 'ARG2': ' near breaking point'}
+appending clause>> 
+ {'V': ' breaking', 'ARG1': ' point'}
+appending clause>> 
+ {'V': ' would'}
+appending clause>> 
+ {'V': ' be'}
+appending clause>> 
+ {'ARG1': ' the floodgates of revolution', 'ARGM-MOD': ' would', 'V': ' opened', 'ARGM-ADV': ' if the people of Paris were pushed too far'}
+appending clause>> 
+ {'V': ' were'}
+appending clause>> 
+ {'ARG1': ' the people of Paris', 'V': ' pushed', 'ARGM-EXT': ' too far'}
+appending clauses>>>>> 
+ {'ARG1': ' the people of Paris', 'V': ' pushed', 'ARGM-EXT': ' too far'}
+appending clause>> 
+ {'V': ' were'}
+appending clause>> 
+ {'ARG1': ' Similar conditions', 'ARGM-ADV': ' also', 'V': ' experienced', 'ARGM-LOC': ' in London where there was widespread crime and violence due to the ineffective judicial system'}
+appending clause>> 
+ {'ARGM-LOC': ' London', 'R-ARGM-LOC': ' where', 'V': ' was', 'ARG1': ' widespread crime and violence', 'ARGM-CAU': ' due to the ineffective judicial system'}
+appending clauses>>>>> 
+ {'ARGM-LOC': ' London', 'R-ARGM-LOC': ' where', 'V': ' was', 'ARG1': ' widespread crime and violence', 'ARGM-CAU': ' due to the ineffective judicial system'}
+appending clause>> 
+ {'V': ' ruling', 'ARG0': ' classes'}
+appending clause>> 
+ {'ARGM-DIS': ' However', 'ARG1': ' the ruling classes', 'V': ' were', 'ARG2': ' oblivious to the sufferings of the ruling classes people', 'ARGM-PRD': ' failing to realize the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+appending clause>> 
+ {'ARG0': ' ruling', 'V': ' classes'}
+appending clause>> 
+ {'ARG1': ' the ruling classes', 'V': ' failing', 'ARG2': ' to realize the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+appending clause>> 
+ {'ARG0': ' the ruling classes', 'V': ' realize', 'ARG1': ' the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+appending clause>> 
+ {'V': ' could'}
+appending clause>> 
+ {'ARG1': ' the potential', 'R-ARG1': ' that', 'ARG0': ' angry mobs', 'ARGM-MOD': ' could', 'V': ' have'}
+appending clause>> 
+ {'V': ' produce', 'ARG1': ' anarchy'}
+appending clauses>>>>> 
+ {'V': ' produce', 'ARG1': ' anarchy'}
+removing >> {'V': ' is'}
+removing >> {'V': ' were'}
+removing >> {'V': ' would'}
+removing >> {'V': ' was'}
+removing >> {'V': ' were'}
+removing >> {'V': ' would'}
+removing >> {'V': ' were'}
+removing >> {'V': ' were'}
+removing >> {'V': ' could'}
+Subject ->>   this book by Charles Dickens
+{'ARG0': ' this book by Charles Dickens', 'V': ' contains', 'ARG1': ' two of the most famous literary quotes of all time'}
+
+Subject ->>   One
+{'ARG1': ' One', 'V': ' appears', 'ARGM-TMP': ' at the start of the book'}
+
+Subject ->>   Charles Dickens
+{'ARG1': ' Charles Dickens', 'V': ' begins', 'ARG2': " with the statement that ' It was the best of times , it was the worst of times"}
+
+Subject ->>   It
+{'ARG1': ' It', 'V': ' was', 'ARG2': ' the best of times'}
+{'ARG1': ' It', 'V': ' was', 'ARG2': ' the age of wisdom'}
+
+Subject ->>   it
+{'ARG1': ' it', 'V': ' was', 'ARG2': ' the worst of times'}
+{'ARG1': ' it', 'V': ' was', 'ARG2': ' the age of foolishness'}
+
+Subject ->>   to
+{'V': ' referred', 'ARG1': ' to'}
+
+Subject ->>   The cities referred to
+{'ARG1': ' The cities referred to', 'V': ' are', 'ARG2': ' London , England and Paris , France'}
+
+Subject ->>   the relationship between Britain and France
+{'ARGM-TMP': ' when', 'ARG1': ' the relationship between Britain and France', 'V': ' was', 'ARG2': ' strained'}
+{'ARGM-TMP': " the 1770 's", 'R-ARGM-TMP': ' when', 'ARG1': ' the relationship between Britain and France', 'V': ' strained'}
+
+Subject ->>   The rulers of both these countries
+{'ARG0': ' The rulers of both these countries', 'V': ' believed', 'ARG1': ' that The rulers of both these countries dynasties would last forever'}
+
+Subject ->>   America
+{'ARGM-DIS': ' However', 'ARGM-TMP': ' at this time', 'ARG0': ' America', 'V': ' declared', 'ARG1': ' America independence', 'ARGM-ADV': ' which was a hint that there were winds of change in the world'}
+
+Subject ->>   which
+{'ARG1': ' which', 'V': ' was', 'ARG2': ' a hint that there were winds of change in the world'}
+
+Subject ->>   winds of change
+{'V': ' were', 'ARG1': ' winds of change', 'ARGM-LOC': ' in the world'}
+
+Subject ->>   widespread hunger and poverty
+{'ARGM-LOC': ' particularly in the cities where inflation was running out of control', 'V': ' was', 'ARG1': ' widespread hunger and poverty'}
+
+Subject ->>   The authorities
+{'ARG0': ' The authorities', 'V': ' inflicted', 'ARG1': ' heavy punishments', 'ARG2': ' on The authorities citizens who believed that The authorities were experiencing the very worst of life'}
+
+Subject ->>   The authorities citizens
+{'ARG0': ' The authorities citizens', 'R-ARG0': ' who', 'V': ' believed', 'ARG1': ' that The authorities were experiencing the very worst of life'}
+
+Subject ->>   Dickens
+{'ARG0': ' Dickens', 'V': ' comments', 'ARG1': ' that the people of Paris were near breaking point , and that the floodgates of revolution would be opened if the people of Paris were pushed too far'}
+
+Subject ->>   the people of Paris
+{'ARG1': ' the people of Paris', 'V': ' were', 'ARG2': ' near breaking point'}
+
+Subject ->>   point
+{'V': ' breaking', 'ARG1': ' point'}
+
+Subject ->>   the floodgates of revolution
+{'ARG1': ' the floodgates of revolution', 'ARGM-MOD': ' would', 'V': ' opened', 'ARGM-ADV': ' be if the people of Paris were pushed too far'}
+
+Subject ->>   widespread crime and violence
+{'ARGM-LOC': ' London', 'R-ARGM-LOC': ' where', 'V': ' was', 'ARG1': ' widespread crime and violence', 'ARGM-CAU': ' due to the ineffective judicial system'}
+
+Subject ->>   classes
+{'V': ' ruling', 'ARG0': ' classes'}
+
+Subject ->>   the ruling classes
+{'ARGM-DIS': ' However', 'ARG1': ' the ruling classes', 'V': ' were', 'ARG2': ' oblivious to the sufferings of the ruling classes people', 'ARGM-PRD': ' failing to realize the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+{'ARG1': ' the ruling classes', 'V': ' failing', 'ARG2': ' to realize the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+{'ARG0': ' the ruling classes', 'V': ' realize', 'ARG1': ' the potential that angry mobs could have and angry mobs ability to produce anarchy'}
+
+Subject ->>   ruling
+{'ARG0': ' ruling', 'V': ' classes'}
+
+Subject ->>   anarchy
+{'V': ' produce', 'ARG1': ' anarchy'}
+
