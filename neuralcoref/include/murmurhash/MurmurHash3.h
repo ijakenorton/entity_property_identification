@@ -1,28 +1,3 @@
-//-----------------------------------------------------------------------------
-// MurmurHash3 was written by Austin Appleby, and is placed in the public
-// domain. The author hereby disclaims copyright to this source code.
-
-#ifndef _MURMURHASH3_H_
-#define _MURMURHASH3_H_
-
-#include <stdint.h>
-
-//-----------------------------------------------------------------------------
-#ifdef __cplusplus
-extern "C" {
-#endif
-
-
-void MurmurHash3_x86_32  ( const void * key, int len, uint32_t seed, void * out );
-
-void MurmurHash3_x86_128 ( const void * key, int len, uint32_t seed, void * out );
-
-void MurmurHash3_x64_128 ( const void * key, int len, uint32_t seed, void * out );
-
-#ifdef __cplusplus
-}
-#endif
-
-//-----------------------------------------------------------------------------
-
-#endif // _MURMURHASH3_H_
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cca441e8c16106f4a1f936c2e0bd85a04954f83ef965781e81908967bea6d0
+size 804

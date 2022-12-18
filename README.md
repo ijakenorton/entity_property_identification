@@ -1,13 +1,3 @@
-To setup allennlp-models environment run 
-```
-conda env create -f allen.yml
-conda activate allen
-conda install -c conda-forge jsonnet
-pip install -r requirements.txt && pip install allennlp-models
-pip install ./neuralcoref
-pip install spacy==2.3.5
-python -m spacy download en_core_web_lg
-python -m spacy download en_core_web_sm
-
-```
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a483b05b0b7d56c6261af654586d847718e95cd6fba41ae7af516b17f559d9b0
+size 334

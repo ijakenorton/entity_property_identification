@@ -1,22 +1,3 @@
-1.4 Annotation of Modifiers
-The following types of modifiers are being used in PropBank:
-COM: Comitative
-LOC: Locative
-DIR: Directional
-GOL: Goal
-MNR: Manner
-TMP: Temporal
-EXT: Extent
-REC: Reciprocals
-PRD: Secondary Predication --
-10
-PRP: Purpose
-CAU: Cause
-DIS: Discourse
-ADV: Adverbials -- 
-ADJ: Adjectival
-MOD: Modal --
-NEG: Negation
-DSP: Direct Speech
-LVB: Light Verb --
-CXN: Construction
+version https://git-lfs.github.com/spec/v1
+oid sha256:32e0615e3c91e83bf93d248da1d295a6d8649dfb5525a4e3d3e829ff3d8c0dab
+size 392

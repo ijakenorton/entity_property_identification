@@ -1,3 +1,3 @@
-from allennlp_models.mc.dataset_readers.swag import SwagReader
-from allennlp_models.mc.dataset_readers.commonsenseqa import CommonsenseQaReader
-from allennlp_models.mc.dataset_readers.piqa import PiqaReader
+version https://git-lfs.github.com/spec/v1
+oid sha256:028009073512cb67324bb2291782a932d6c8913bf112cec8ce0035aa5ba55118
+size 207

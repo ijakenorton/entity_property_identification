@@ -1,21 +1,3 @@
-from typing import List
-
-
-from allennlp.common.util import JsonDict
-from allennlp.data import Instance
-from allennlp.predictors.predictor import Predictor
-
-
-@Predictor.register("transformer_mc")
-class TransformerMCPredictor(Predictor):
-    """
-    Predictor for the :class:`~allennlp_models.mc.models.TransformerMC` model.
-    """
-
-    def predict(self, prefix: str, alternatives: List[str]) -> JsonDict:
-        return self.predict_json({"prefix": prefix, "alternatives": alternatives})
-
-    def _json_to_instance(self, json_dict: JsonDict) -> Instance:
-        return self._dataset_reader.text_to_instance(
-            "no_qid", json_dict["prefix"], json_dict["alternatives"]
-        )
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ceddfd783942f531d9f321974036f0207560aec117c3a0be049e8e915fdac2
+size 688

@@ -1,4 +1,3 @@
-from allennlp_models.lm.modules.language_model_heads.language_model_head import LanguageModelHead
-from allennlp_models.lm.modules.language_model_heads.bert import BertLanguageModelHead
-from allennlp_models.lm.modules.language_model_heads.gpt2 import Gpt2LanguageModelHead
-from allennlp_models.lm.modules.language_model_heads.linear import LinearLanguageModelHead
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2f850af0a1e6fedc9a2abd89927a0721f9a7a2b9f4a79583521aeb95de34d02
+size 363

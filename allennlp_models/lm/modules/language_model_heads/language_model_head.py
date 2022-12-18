@@ -1,19 +1,3 @@
-import torch
-
-from allennlp.common import Registrable
-
-
-class LanguageModelHead(torch.nn.Module, Registrable):
-    """
-    A `LanguageModelHead` encapsulates a function that goes from some hidden state to logits over
-    a vocabulary.
-    """
-
-    def get_input_dim(self) -> int:
-        raise NotImplementedError
-
-    def get_output_dim(self) -> int:
-        raise NotImplementedError
-
-    def forward(self, hidden_states: torch.Tensor) -> torch.Tensor:  # type: ignore
-        raise NotImplementedError
+version https://git-lfs.github.com/spec/v1
+oid sha256:8669800bcd92ff5c0bcfc1f6baf5035ef3504a1617ba83ec6af49c75e4641398
+size 505

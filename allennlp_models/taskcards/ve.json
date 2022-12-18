@@ -1,9 +1,3 @@
-{
-    "id": "ve",
-    "name": "Visual Entailment",
-    "description": "Visual Entailment (VE) is an inference task on image-sentence pairs. The goal is to predict whether the image (premise) semantically entails the sentence (hypothesis).",
-    "expected_inputs": "The task expects a `premise` image and a `hypothesis` sentence.",
-    "expected_outputs": "The expected output is whether the `premise` entails/contradicts/is neutral towards the `hypothesis`.",
-    "scope_and_limitations": null,
-    "examples": null,
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c7e1edcaf9c2dae6af64b4eb41e80e4243cf3353640f6bb250d247ba9559e24
+size 519

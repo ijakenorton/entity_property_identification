@@ -1,7 +1,3 @@
-from allennlp_models.vision.dataset_readers.vision_reader import VisionReader
-from allennlp_models.vision.dataset_readers.gqa import GQAReader
-from allennlp_models.vision.dataset_readers.nlvr2 import Nlvr2Reader
-from allennlp_models.vision.dataset_readers.vgqa import VGQAReader
-from allennlp_models.vision.dataset_readers.vqav2 import VQAv2Reader
-from allennlp_models.vision.dataset_readers.visual_entailment import VisualEntailmentReader
-from allennlp_models.vision.dataset_readers.flickr30k import Flickr30kReader
+version https://git-lfs.github.com/spec/v1
+oid sha256:258d9879c13e9633d29670a7687b6a84ee9f665a9506be3ec9e4d711baca8faa
+size 517

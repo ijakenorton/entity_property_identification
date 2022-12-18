@@ -1,15 +1,3 @@
-import logging
-
-from allennlp.data import DatasetReader
-
-from allennlp_models.mc.dataset_readers.piqa import PiqaReader
-from allennlp_models.mc.dataset_readers.transformer_mc_tt import (
-    TransformerMCReaderTransformerToolkit,
-)
-
-logger = logging.getLogger(__name__)
-
-
-@DatasetReader.register("piqa_tt")
-class PiqaReaderTransformerToolkit(TransformerMCReaderTransformerToolkit, PiqaReader):
-    pass
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd03bcd727868643557e041366a54a3e9d3ae0c11ebf76a0bfce76f8056e2fc
+size 403

@@ -1,11 +1,3 @@
-import os
-
-_MAJOR = "2"
-_MINOR = "10"
-_PATCH = "1"
-# This is mainly for nightly builds which have the suffix ".dev$DATE". See
-# https://semver.org/#is-v123-a-semantic-version for the semantics.
-_SUFFIX = os.environ.get("ALLENNLP_MODELS_VERSION_SUFFIX", "")
-
-VERSION_SHORT = "{0}.{1}".format(_MAJOR, _MINOR)
-VERSION = "{0}.{1}.{2}{3}".format(_MAJOR, _MINOR, _PATCH, _SUFFIX)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b51e69be2ec9079c0cb186a80664eff72f4e627019bc0e2a362eec7b3e9fe508
+size 374

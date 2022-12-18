@@ -1,14 +1,3 @@
-Subject ->>   for the Duke Lodovico    to raise insurrections on the borders
-{'V': ' was', 'ARG2': ' enough', 'ARG1': ' for the Duke Lodovico    to raise insurrections on the borders'}
-
-Subject ->>   the Duke Lodovico   
-{'ARG0': ' the Duke Lodovico   ', 'V': ' raise', 'ARG1': ' insurrections', 'ARGM-LOC': ' on the borders'}
-{'ARG1': ' the Duke Lodovico   ', 'V': ' died', 'ARGM-TMP': ' in 1510'}
-
-Subject ->>   the Duke Lodovico    to lose it a second time
-{'V': ' cause', 'ARG1': ' the Duke Lodovico    to lose it a second time'}
-
-Subject ->>   the Duke Lodovico 
-{'ARG0': ' the Duke Lodovico ', 'V': ' lose', 'ARG1': ' it', 'ARGM-TMP': ' a second time'}
-{'ARG0': ' the Duke Lodovico ', 'V': ' ruled', 'ARG1': ' over Milanfrom', 'ARGM-TMP': ' 1494 to 1500'}
-{'ARG1': ' what resources', 'ARG0': ' the Duke Lodovico ', 'V': ' had'}
+version https://git-lfs.github.com/spec/v1
+oid sha256:17760c0a4e9bd52334ef8bd31bed685e6c202add1ffdeb4f29d6dc23970e7a09
+size 833

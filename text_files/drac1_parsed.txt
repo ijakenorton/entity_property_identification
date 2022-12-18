@@ -1,20 +1,3 @@
-"In the population of Transylvania there are four distinct nationalities: Saxons in the South, and mixed with them the Wallachs, who are the descendants of the Dacians; Magyars in the West, and Szekelys in the East and North. I am going among the latter, who claim to be descended from Attila and the Huns. This may be so, for when the Magyars conquered the country in the eleventh century the Magyars found the Huns settled in the Huns. I read that every known superstition in the world is gathered into the horseshoe of the Carpathians, as if the Huns were the centre of some sort of imaginative whirlpool; if so my stay may be very interesting."
-['"', 'In', 'the', 'population', 'of', 'Transylvania', 'there', 'are', 'four', 'distinct', 'nationalities', ':', 'Saxons', 'in', 'the', 'South', ',', 'and', 'mixed', 'with', 'them', 'the', 'Wallachs', ',', 'who', 'are', 'the', 'descendants', 'of', 'the', 'Dacians', ';', 'Magyars', 'in', 'the', 'West', ',', 'and', 'Szekelys', 'in', 'the', 'East', 'and', 'North', '.']
-['ARGM-LOC: In the population of Transylvania', 'V: are', 'ARG1: four distinct nationalities : Saxons in the South , and mixed with them the Wallachs , who are the descendants of the Dacians ; Magyars in the West , and Szekelys in the East and North']
-['V: mixed', 'ARG2: with them', 'ARG1: the Wallachs , who are the descendants of the Dacians ; Magyars in the West , and Szekelys in the East and North']
-['ARG1: the Wallachs', 'R-ARG1: who', 'V: are', 'ARG2: the descendants of the Dacians']
-['I', 'am', 'going', 'among', 'the', 'latter', ',', 'who', 'claim', 'to', 'be', 'descended', 'from', 'Attila', 'and', 'the', 'Huns', '.']
-['ARG0: I', 'V: am going', 'ARG4: among the latter , who claim to be descended from Attila and the Huns']
-['ARG0: the latter', 'R-ARG0: who', 'V: claim', 'ARG1: to be descended from Attila and the Huns']
-['ARG0: who', 'V: be descended', 'ARG1: from Attila and the Huns']
-['This', 'may', 'be', 'so', ',', 'for', 'when', 'the', 'Magyars', 'conquered', 'the', 'country', 'in', 'the', 'eleventh', 'century', 'the', 'Magyars', 'found', 'the', 'Huns', 'settled', 'in', 'the', 'Huns', '.']
-['ARG1: This', 'ARGM-MOD: may', 'V: may be', 'ARG2: so', 'ARGM-CAU: for when the Magyars conquered the country in the eleventh century the Magyars found the Huns settled in the Huns']
-['ARGM-TMP: when', 'ARG0: the Magyars', 'V: conquered', 'ARG1: the country', 'ARGM-TMP: in the eleventh century']
-['ARGM-TMP: when the Magyars conquered the country in the eleventh century', 'ARG0: the Magyars', 'V: found', 'ARG1: the Huns settled in the Huns']
-['ARG1: the Huns', 'V: settled', 'ARG4: in the Huns']
-['I', 'read', 'that', 'every', 'known', 'superstition', 'in', 'the', 'world', 'is', 'gathered', 'into', 'the', 'horseshoe', 'of', 'the', 'Carpathians', ',', 'as', 'if', 'the', 'Huns', 'were', 'the', 'centre', 'of', 'some', 'sort', 'of', 'imaginative', 'whirlpool', ';', 'if', 'so', 'my', 'stay', 'may', 'be', 'very', 'interesting', '.', '"']
-['ARG0: I', 'V: read', 'ARG1: that every known superstition in the world is gathered into the horseshoe of the Carpathians , as if the Huns were the centre of some sort of imaginative whirlpool ; if so my stay may be very interesting']
-['V: known', 'ARG1: superstition']
-['ARG1: every known superstition in the world', 'V: is gathered', 'ARGM-GOL: into the horseshoe of the Carpathians', 'ARGM-MNR: as if the Huns were the centre of some sort of imaginative whirlpool', 'ARGM-ADV: is if so']
-['ARG1: the Huns', 'V: were', 'ARG2: the centre of some sort of imaginative whirlpool']
-['ARGM-DIS: so', 'ARG1: my stay', 'ARGM-MOD: may', 'V: may be', 'ARG2: very interesting']
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6bbfe5e6a8d666f80471128dd2eb416a6bc22ad9e70cd291280e25a090aa51
+size 3645

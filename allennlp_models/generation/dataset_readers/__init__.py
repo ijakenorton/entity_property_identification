@@ -1,3 +1,3 @@
-from allennlp_models.generation.dataset_readers.copynet_seq2seq import CopyNetDatasetReader
-from allennlp_models.generation.dataset_readers.seq2seq import Seq2SeqDatasetReader
-from allennlp_models.generation.dataset_readers.cnn_dm import CNNDailyMailDatasetReader
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5760cc0d2be9ab9da669671f248f3603d9531ef62a0790e41c0683f24aee0e0
+size 264

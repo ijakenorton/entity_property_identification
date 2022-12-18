@@ -1,4 +1,3 @@
-# flake8: noqa: F403
-from allennlp_models.lm.modules.seq2seq_encoders import *
-from allennlp_models.lm.modules.language_model_heads import *
-from allennlp_models.lm.modules.token_embedders import *
+version https://git-lfs.github.com/spec/v1
+oid sha256:68946eab4d1eb027c3b22b94fbb9bce548b20cae3199fcaa454c6ebf65709f87
+size 198

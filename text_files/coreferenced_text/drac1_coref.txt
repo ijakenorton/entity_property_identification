@@ -1,1 +1,3 @@
-In the population of Transylvania there are four distinct nationalities: Saxons in the South, and mixed with them the Wallachs, who are the descendants of the Dacians; Magyars in the West, and Szekelys in the East and North. I am going among the latter, who claim to be descended from Attila and the Huns. This may be so, for when the Magyars conquered the country in the eleventh century the Magyars found the Huns settled in the Huns. I read that every known superstition in the world is gathered into the horseshoe of the Carpathians, as if the Huns were the centre of some sort of imaginative whirlpool; if so my stay may be very interesting.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0130a601aaa57f8e43d730e57e109fa5e62ff30dadf3bc3d2ff4743ac34bd97
+size 646

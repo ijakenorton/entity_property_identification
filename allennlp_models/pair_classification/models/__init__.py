@@ -1,3 +1,3 @@
-from allennlp_models.pair_classification.models.bimpm import BiMpm
-from allennlp_models.pair_classification.models.decomposable_attention import DecomposableAttention
-from allennlp_models.pair_classification.models.esim import ESIM
+version https://git-lfs.github.com/spec/v1
+oid sha256:abcfc3582222ce2396b3ef9d11381f8ebc1ba4548d008aeef3ca529118ad4d6c
+size 232

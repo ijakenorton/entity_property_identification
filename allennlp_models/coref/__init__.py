@@ -1,9 +1,3 @@
-"""
-Coreference resolution is defined as follows: given a document, find and cluster entity mentions.
-"""
-
-from allennlp_models.coref.dataset_readers.conll import ConllCorefReader
-from allennlp_models.coref.dataset_readers.preco import PrecoReader
-from allennlp_models.coref.dataset_readers.winobias import WinobiasReader
-from allennlp_models.coref.models.coref import CoreferenceResolver
-from allennlp_models.coref.predictors.coref import CorefPredictor
+version https://git-lfs.github.com/spec/v1
+oid sha256:2589cab553879c432f2bbab9e2d9fb1c77dcb9cbdda2cb77de8fee74639c7cfb
+size 455

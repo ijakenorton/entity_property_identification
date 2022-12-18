@@ -1,4 +1,3 @@
-from allennlp_models.tagging.dataset_readers.ccgbank import CcgBankDatasetReader
-from allennlp_models.tagging.dataset_readers.conll2000 import Conll2000DatasetReader
-from allennlp_models.tagging.dataset_readers.conll2003 import Conll2003DatasetReader
-from allennlp_models.tagging.dataset_readers.ontonotes_ner import OntonotesNamedEntityRecognition
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c3c80b11b3a78f1d28b8168afeeffc3930d627c85f9e2f0ec4d5e57c8e2240a
+size 349
