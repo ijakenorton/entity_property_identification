@@ -5,9 +5,6 @@ import string
 from nltk import tokenize
 from allennlp_models.pretrained import load_predictor
 
-'''
-First argument is the input text file, second is the output
-'''
 
 
 
@@ -55,7 +52,7 @@ def create_text(coreferenced_text):
 def internal_string_to_dict(sentencized_text):
     global ARGM_LIST, ARGS, subject_set, subjects, object_set, objects
     predictor = load_predictor('structured-prediction-srl-bert')
-    sentences_dict = dict(verbs = [], words = [])
+    sentences_dict = dict(verbs = [], sentences = [])
     for sentence in sentencized_text:
         # print(sentence)
         clauses = []
@@ -67,40 +64,24 @@ def internal_string_to_dict(sentencized_text):
         result = predictor.predict_json({"sentence": sentence})
         for verb_phrase in result['verbs']:
             clause = reg.findall(r"\[(.*?)\]", verb_phrase['description']) 
-            print('current phrase ->>>',verb_phrase['description'])
             keys = []
             values = []
             for p in clause:
                 start, middle, value = p.partition(":") 
-                #new = start.translate(str.maketrans('', '', string.punctuation))
-                #new = end.translate(str.maketrans('', '', string.punctuation))
-                # new = end.split("'")
-                # for i, each in enumerate(new):
-                #     new[i] = each.strip()
-
-                # end = "".join(new)
                 value = tokenize.word_tokenize(value.strip())#string to list
-                # print('new_ends ->>>',new_ends)
-
-                #god help us.
-
                 final = []
                 i = 0
+                #This loop fixes the dictionary values that were split by the allen model
                 while (i < len(value)):
                     matches = []
-
                     for w in split_sentence:
                         if value[i] in w:
                             matches.append(w)
                     converted = value[i]
-                    #print("firstconv", converted)
                     next_i = i+1
-
                     while(next_i < len(value)):
                         temp_matches = []
-                        # second matches
                         temp_word = converted + value[next_i]
-                        #print('tempword ->>', temp_word)
                         for match in matches:
                             if temp_word in match:
                                 temp_matches.append(match)
@@ -110,18 +91,11 @@ def internal_string_to_dict(sentencized_text):
                             matches = temp_matches
                             i = next_i
                             converted = converted + value[next_i]
-                            #print('converted ->>',converted)
-                            next_i += 1
-                            
+                            next_i += 1  
                     i+=1
                     final.append(converted)
-                #print("final",final)
-                # end = ''
-                # for word in final:
-                #    end = " ".join(word) 
                 
                 end = " ".join(final)
-                print('end', end)
                 keys.append(start) 
                 values.append(end)
             
@@ -129,7 +103,7 @@ def internal_string_to_dict(sentencized_text):
             clause = dict(ARG0 = None, V = None, ARG1 = None)
             clause = dict(zip(keys,values))
             clauses.append(clause)
-        sentences_dict['words'].append(result['words'])
+        sentences_dict['sentences'].append(result['words'])
         sentences_dict['verbs'].append(clauses)
     return sentences_dict
     
@@ -159,8 +133,6 @@ def verb_replacement(sentences_dict):
     return sentences_dict
 
 def add_subject_to_dict(entities, arg, clause, i):
-    #print(clause)
-    #current_subject = clause[arg].translate(str.maketrans('', '', string.punctuation))
     current_subject = clause[arg]
     add_to_dict(subjects, subject_set, arg, clause, i)  
     if current_subject not in entities.keys():
@@ -187,13 +159,9 @@ def increment_entity_object(entities, current_subject, current_object):
 
 
 def add_new_object_to_entity(entities,arg, clause, current_subject, i):
-    #current_object = clause[arg].translate(str.maketrans('', '', string.punctuation))
     current_object = clause[arg]
-    #print('current_object>>>', current_object)
-   # print('current_subject>>>',current_subject)
     add_to_dict(objects, object_set, arg, clause, i) 
     if current_subject != None:
-       # print('incrementing >>', current_object,"for current_subject>>", current_subject)
         entities = increment_entity_object(entities, current_subject, current_object)
         
         
@@ -237,6 +205,11 @@ Method which takes coreferenced text and returns a dictionary containing the ori
 the verb clauses
 subjects 
 objects
+second dictionary of entities which contains the subjects of sentences/ objects which link to those subjects and the number of occurences they
+appear together based on sentences
+TODO
+paragraphs
+chapters
 
 '''
 def parse(coreferenced_text):

@@ -44,8 +44,6 @@ def get_entity_types(doc, entities):
             tempset.add(ent._.coref_cluster)
 
         if(ent.label_ == "PERSON"):
-            #santized = ent.text.translate(str.maketrans('', '', string.punctuation))
-            #stripped = "'".join(santized.split())
             persons.add(ent.text)
             # if ent._.coref_cluster != None:
             #     for mention in ent._.coref_cluster.mentions:
@@ -72,44 +70,14 @@ def main():
     doc = nlp(drac_chp1)
     parsed, entities = semantic_parsing.parse(resolve(doc))
     persons, orgs, gpes, locs = get_entity_types(doc, entities)
-    # for key in entities.keys():
-    #     print("Subject:",key)
-        # for object_key in entities[key].keys():
-        #     print('\t','object >> ',object_key,' >>> count:', entities[key][object_key])
-            
-            
-    #print("oh yeah, btw:", entities)
+    # verbs = parsed['verbs'] 
+    # subjects = parsed['subjects']
+    # objects = parsed['objects']
+    for key in entities:
+        print('Subject:', key)
+        for object_key in entities[key]:
+            print('\t','object >> ',object_key,' >>> count:', entities[key][object_key])
 
-    # for subject_key in parsed['subjects'].keys():
-    #     subject_relations[subject_key] = {}
-    #     current_index_set = set()
-    #     for clause in parsed['subjects'][subject_key]: ##values of subject keys. (loop through a list of clauses)      
-    #         for object_key in parsed['objects'].keys(): #loop through object keys
-    #             for object_clause in parsed['objects'][object_key]: #for each obj key, loop over its values( list of clauses)   
-    #                 if clause['index'] == object_clause['index']:
-    #                     if clause['index'] not in current_index_set:
-    #                         continue
-    #                     else:
-    #                         current_index_set.add(clause['index'])
-    #                     # print('sub_clause>>',clause)
-    #                     # print('object_clause>>',object_clause)
-    #                     # print('object key', object_key)
-    #                     # print('subject_relations[subject_key].keys()>>>>', subject_relations[subject_key].keys())
-    #                     if object_key in subject_relations[subject_key].keys():
-    #                         subject_relations[subject_key][object_key] += 1
-    #                     else:
-    #                         subject_relations[subject_key][object_key] = 1
-    
-    # for subject_key in subject_relations.keys():
-    #     print('subject key >>>',subject_key)
-    #     for object_key in subject_relations[subject_key].keys():
-    #         print(object_key,'>>>',subject_relations[subject_key][object_key])
-    #     print("---- New SUB ------")
-                        
-    # for verb in parsed['verbs']:
-    #     for clause in verb:
-    #         print(clause)                    
-                        
     
     # subjects = parsed['subjects']
     # for each in subjects:
@@ -127,22 +95,7 @@ if __name__ == '__main__':
 
 
 
-#resolved_chp1 = resolve(doc)
 
-
-# parsed_chp1  = semantic_parsing.parse(resolved_chp1)
-
-
-# sents = parsed_chp1['words']  #words is actullly a  sentence, cheers jake.
-# verbs = parsed_chp1['verbs'] 
-# subjects = parsed_chp1['subjects']
-# objects = parsed_chp1['objects']\
-
-# for each in subjects:
-#     #print(each, ":", subjects[each])
-#     print("*****",each,"*****")
-#     for clause in subjects[each]:
-#         print(clause)
 
 
 
